@@ -1,4 +1,4 @@
-# Smart Glasses Assistive Device
+# Eyita AI
 
 **Arduino based smart glass** designed to help blind and visually impaired people detect obstacles.  
 The system uses an **ultrasonic sensor** to measure distance and alerts the user via a **buzzer** and **LED**.
